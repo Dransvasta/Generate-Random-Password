@@ -15,7 +15,7 @@ The Random Password Generator is a web application that allows users to generate
 
 ## Screenshots
 
-![Screenshot 1](Screenshot 2023-08-11 213841.png)
+![Screenshot 1](Screenshot%202023-08-11%20213841.png)
 
 
 ## Usage
