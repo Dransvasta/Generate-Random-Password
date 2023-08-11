@@ -20,7 +20,7 @@ The Random Password Generator is a web application that allows users to generate
 
 ## Usage
 
-1. Open the [Random Password Generator]([https://example.com](https://dransvasta.github.io/Generate-Random-Password/randomPasswordGenerator.html)) in your web browser.
+1. Open the [Random Password Generator](randomPasswordGenerator.html) in your web browser.
 2. Choose the desired options for your password (alphabets, numbers, special characters, and spaces).
 3. Enter the desired length of the password in the input box.
 4. Click the "Generate" button to generate a random password.
